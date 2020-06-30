@@ -7,6 +7,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1dsYWlaVkz1bsz0XKYzcbph9NhB" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -15,10 +22,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Mundo 1 - Fundamentos/Desafios/Desafio 21" />
   </component>
-  <component name="RunManager" selected="Python.desafio01">
-    <configuration name="desafio01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Meus arquivos principais\CURSOS\Lista de Cursos\Curso de Python - Curso em vídeo\CursoDePython3\Mundo 1 - Fundamentos\Desafios\Desafio 21" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.desafio27">
+    <configuration name="desafio23 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoDePython3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -26,11 +38,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo 1 - Fundamentos/Desafios/Desafio 01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo 1 - Fundamentos/03 - Usando módulos do Python/Desafio 23" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 1 - Fundamentos/Desafios/Desafio 01/desafio01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 1 - Fundamentos/03 - Usando módulos do Python/Desafio 23/desafio23.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -39,7 +51,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio24 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoDePython3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -47,11 +59,74 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo 1 - Fundamentos/Desafios/Desafio 03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo 1 - Fundamentos/03 - Usando módulos do Python/Desafio 24" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 1 - Fundamentos/Desafios/Desafio 03/desafio03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 1 - Fundamentos/03 - Usando módulos do Python/Desafio 24/desafio24.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio25" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoDePython3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo 1 - Fundamentos/03 - Usando módulos do Python/Desafio 25" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 1 - Fundamentos/03 - Usando módulos do Python/Desafio 25/desafio25.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio26" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoDePython3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo 1 - Fundamentos/03 - Usando módulos do Python/Desafio 26" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 1 - Fundamentos/03 - Usando módulos do Python/Desafio 26/desafio26.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio27" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoDePython3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo 1 - Fundamentos/03 - Usando módulos do Python/Desafio 27" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 1 - Fundamentos/03 - Usando módulos do Python/Desafio 27/desafio27.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -62,8 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.desafio01" />
-        <item itemvalue="Python.desafio03" />
+        <item itemvalue="Python.desafio27" />
+        <item itemvalue="Python.desafio26" />
+        <item itemvalue="Python.desafio25" />
+        <item itemvalue="Python.desafio24 (1)" />
+        <item itemvalue="Python.desafio23 (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -81,25 +159,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1344" height="174" key="GridCell.Tab.0.bottom" timestamp="1593215572752">
+    <state width="645" height="167" key="GridCell.Tab.0.bottom" timestamp="1593544598677">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593215572752" />
-    <state width="1344" height="174" key="GridCell.Tab.0.center" timestamp="1593215572752">
+    <state width="645" height="167" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593544598677" />
+    <state width="645" height="167" key="GridCell.Tab.0.center" timestamp="1593544598676">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593215572752" />
-    <state width="1344" height="174" key="GridCell.Tab.0.left" timestamp="1593215572752">
+    <state width="645" height="167" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593544598676" />
+    <state width="645" height="167" key="GridCell.Tab.0.left" timestamp="1593544598676">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593215572752" />
-    <state width="1344" height="174" key="GridCell.Tab.0.right" timestamp="1593215572752">
+    <state width="645" height="167" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593544598676" />
+    <state width="645" height="167" key="GridCell.Tab.0.right" timestamp="1593544598676">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593215572752" />
-    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1593215548026">
+    <state width="645" height="167" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593544598676" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1593544649933">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1593215548026" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1593544649933" />
   </component>
 </project>
