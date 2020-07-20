@@ -11,4 +11,5 @@ print('Você nasceu no dia ' + dia + ' de ' + mes + ' de ' + ano + '.' + ' Corre
 
 n1 = input('Digite um número: ')
 n2 = input('Digite outro número: ')
-print('A soma é '+ n1+n2)
+s = n1+n2
+print('A soma é '+ s)
